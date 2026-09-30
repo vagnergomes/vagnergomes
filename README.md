@@ -63,5 +63,5 @@ Atuo há mais de 7 anos no desenvolvimento de soluções tecnológicas end-to-en
 
 ### Conecte-se Comigo
 
-- **LinkedIn:** [[linkedin.com/in/seu-perfil](#)](https://www.linkedin.com/in/vagner-gomees)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](#https://www.linkedin.com/in/vagner-gomees)
 - **E-mail:** [vagnergomes27@gmail.com](mailto:vagnergomes27@gmail.com)
